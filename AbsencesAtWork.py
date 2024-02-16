@@ -1,3 +1,9 @@
+"""Absences At Work
+Used definitive functions instead of classes and uses
+'while' loop for easier and simpler programming, increasing
+the usability relevant implication."""
+
+
 # Constants
 DAYS_IN_YEAR = 365
 
